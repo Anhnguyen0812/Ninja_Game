@@ -1,0 +1,44 @@
+﻿  BaseObject.cpp
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\CommonFunction.h(45,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\CommonFunction.h(58,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  CommonFunction.cpp
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\CommonFunction.h(45,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\CommonFunction.h(58,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  ImpTimer.cpp
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\ImpTimer.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\ImpTimer.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\CommonFunction.h(45,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\CommonFunction.h(58,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  MainObject.cpp
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\CommonFunction.h(45,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\CommonFunction.h(58,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(125,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(126,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(208,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(274,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(284,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(305,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(306,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(307,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(308,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(343,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(374,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(386,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(387,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(388,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(389,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(421,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(455,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\MainObject.cpp(474,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  TextObject.cpp
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\CommonFunction.h(45,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\CommonFunction.h(58,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  game_map.cpp
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\CommonFunction.h(45,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\CommonFunction.h(58,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  main.cpp
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\CommonFunction.h(45,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\CommonFunction.h(58,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  Generating Code...
+C:\Users\NP.ANH\Desktop\game_demo\game_demo\main.cpp(59): warning C4715: 'InitData': not all control paths return a value
+  game_demo.vcxproj -> C:\Users\NP.ANH\Desktop\game_demo\Debug\game_demo.exe
